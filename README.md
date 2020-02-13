@@ -1,2 +1,2 @@
-# react-repo
+# react-proj
 React JS examples
